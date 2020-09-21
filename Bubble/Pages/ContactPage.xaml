@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Bubble.Pages.ContactPage"
+             BackgroundColor="White">
+
+
+    <ContentPage.Content>
+        <ScrollView>
+            <StackLayout>
+                <StackLayout>
+                    <Label Text="Contact" FontSize="Medium" FontAttributes="Bold" TextColor="Black" Margin="50,50,50,10"></Label>
+
+                    <Label Text=""></Label>
+
+                    <Label Text="Contact Jude West (jude.west@vuw.ac.nz), the University's Wellbeing and Education Adviser, for all enquiries about the Bubble." FontSize="Medium"  TextColor="Black" Margin="50,0,50,10"></Label>
+                </StackLayout>
+                <StackLayout>
+                    <Label Text="Location" FontSize="Medium" FontAttributes="Bold" TextColor="Black" Margin="50,30,50,10"></Label>
+
+                    <Label Text=""></Label>
+
+                    <Label Text="To find the Bubble,head to level 2 of the Student Union Building, Kelburn campus." FontSize="Medium" TextColor="Black" Margin="50,0,50,20"></Label>
+
+                </StackLayout>
+
+            </StackLayout>
+        </ScrollView>
+    </ContentPage.Content>
+</ContentPage>
