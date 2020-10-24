@@ -5,11 +5,7 @@ This repository contains Xamarin Forms source code of a frontend mobile app whic
 
 To execute the source code, import the provided files into a C# IDE (e.g. Visual Studio) and run it on an emulator or personal device. 
 
-[![1.png](https://i.postimg.cc/mktcDMHp/1.png)](https://postimg.cc/BPfZ7jN2),[![2.png](https://i.postimg.cc/sXtzYZLN/2.png)](https://postimg.cc/N97ZYLB6),[![3.png](https://i.postimg.cc/FH94VvPN/3.png)](https://postimg.cc/0bHF9TRB),
-
-
-
-
+[![1.png](https://i.postimg.cc/4yqndNY5/1.png)](https://postimg.cc/jn6R3TQw),[![2.png](https://i.postimg.cc/g0VMHxdx/2.png)](https://postimg.cc/06Nd82zv),[![3.png](https://i.postimg.cc/hjMpNNXg/3.png)](https://postimg.cc/vggrVq7S),[![4.png](https://i.postimg.cc/nrz0xTmm/4.png)](https://postimg.cc/qhP8XsjB)
 
 
 
