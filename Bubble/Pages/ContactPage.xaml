@@ -13,7 +13,7 @@
 
                     <Label Text=""></Label>
 
-                    <Label Text="Contact Jude West (jude.west@vuw.ac.nz), the University's Wellbeing and Education Adviser, for all enquiries about the Bubble." FontSize="Medium"  TextColor="Black" Margin="50,0,50,10"></Label>
+                    <Label Text="Contact the University's Wellbeing and Education Adviser, for all enquiries about the Bubble." FontSize="Medium"  TextColor="Black" Margin="50,0,50,10"></Label>
                 </StackLayout>
                 <StackLayout>
                     <Label Text="Location" FontSize="Medium" FontAttributes="Bold" TextColor="Black" Margin="50,30,50,10"></Label>
